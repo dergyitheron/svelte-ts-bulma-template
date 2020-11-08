@@ -5,7 +5,7 @@ This template consists of prepared project for Svelte with Typescript and Bulma.
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit sveltejs/template svelte-app
+npx degit dergyitheron/svelte-ts-bulma-template svelte-app
 cd svelte-app
 ```
 
